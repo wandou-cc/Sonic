@@ -1,6 +1,6 @@
 {
   "name": "qr-nft-sonic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "QR Code NFT project on Sonic blockchain - 基于Sonic链的二维码NFT项目",
   "main": "index.js",
   "scripts": {
@@ -60,6 +60,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
+    "@remix-project/remixd": "^0.6.48",
     "dotenv": "^16.3.1"
   },
   "engines": {
@@ -73,4 +74,4 @@
     "url": "https://github.com/your-username/qr-nft-sonic/issues"
   },
   "homepage": "https://github.com/your-username/qr-nft-sonic#readme"
-} 
+}
