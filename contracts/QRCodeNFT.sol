@@ -59,7 +59,7 @@ contract QRCodeNFT is
     uint256 public maxContentLength = 1000;
     
     // 每个用户最大持有量 - 防止单个用户垄断
-    uint256 public maxHoldingPerUser = 100;
+    uint256 public maxHoldingPerUser = 200;
 
     // ================================
     // 数据结构 - 定义复杂的数据类型
